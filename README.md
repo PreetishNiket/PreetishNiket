@@ -1,6 +1,5 @@
 ### Hi there 👋
 <img src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" width="50px"/>
-<img src="https://drive.google.com/file/d/1vYFnh5v-L7WgjvxKwK0jLEl-jnCW6vmT/view?usp=sharing" width="50px"/>
 
 I'm Preetish Niket,
 I am Android Developer who is passionate about Android App technologies and Open Source. 
