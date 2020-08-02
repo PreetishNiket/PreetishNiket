@@ -3,7 +3,7 @@
 
 I'm Preetish Niket,
 I am Android Developer who is passionate about Android App technologies and Open Source.
-<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/hR6Q01jCXOr31wctJw/giphy.gif" />
+<!--<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/hR6Q01jCXOr31wctJw/giphy.gif" />-->
 - 🔭 I’m currently working on Android App Development
 - 🌱 I’m currently learning  Amazon Web Services
 - 👯 I’m looking to collaborate on any project on Android Apps
