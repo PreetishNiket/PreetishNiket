@@ -15,6 +15,7 @@ I am Android Developer who is passionate about Android App technologies and Open
 
   [![LinkedIn Badge](https://img.shields.io/badge/-Preetish%20Niket-%230077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/preetish-niket/)
   [![Gmail Badge](https://img.shields.io/badge/-niketpreetish@gmail.com-%23D44638?style=flat&logo=Gmail&logoColor=white)](mailto:niketpreetish@gmail.com)
+  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/hR6Q01jCXOr31wctJw/giphy.gif" />
 
 
 <!--
