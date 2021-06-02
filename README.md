@@ -9,7 +9,7 @@ I am Android Developer who is passionate about Android App technologies and Open
 - 👯 I’m looking to collaborate on any project on Android Apps
 - 💬 Ask me about Android,Tech
 - 😄 Pronouns: Tech Enthusiast
-- ⚡ Languages: Java, Kotlin
+- ⚡ Languages: Java, Kotlin, C++,C
 - 📫 How to reach me:
 
   [![LinkedIn Badge](https://img.shields.io/badge/-Preetish%20Niket-%230077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/preetish-niket/)
