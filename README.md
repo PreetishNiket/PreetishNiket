@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- <img src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" width="50px"/> -->
-<img src="https://developer.android.com/" width="50px"/>
+<img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=ecf05e47zzp2hfrp0wqmsxf3a8xyd5hqwz6p2b3ucvj9idvt&rid=giphy.gif&ct=g" width="50px"/>
 
 
 I'm Preetish Niket,
