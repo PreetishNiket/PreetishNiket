@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" width="50px"/>
+<!-- <img src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" width="50px"/> -->
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fphoneky.com%2Fgif-animations%2F%3Fid%3Ds2s183938&psig=AOvVaw0e623PFVXO48x20vX2C7Dy&ust=1630865273617000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCnltz05fICFQAAAAAdAAAAABAy" width="50px"/>
+
 
 I'm Preetish Niket,
 I am Android Developer who is passionate about Android App technologies and Open Source.
