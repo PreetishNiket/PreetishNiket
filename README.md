@@ -24,7 +24,7 @@ I am full-stack developer who is passionate about Backend, frontend technologies
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PreetishNiket&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 --- 
-[![](https://visitcount.itsvg.in/api?id=PreetishNiket&icon=0&color=0)](https://visitcount.itsvg.in)-->
+[![](https://visitcount.itsvg.in/api?id=PreetishNiket&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
